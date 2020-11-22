@@ -1,14 +1,12 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
+templateKey: 'podcast-page'
+path: /podcast
+title: Tape and Pillage Podcast
 image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+heading: Commitment to Grinding
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  Tape and Pillage is the one stop shop for Minnesota Viking and Las Vegas
+  Raiders written, video and audio content.
 intro:
   blurbs:
     - image: /img/coffee.png
